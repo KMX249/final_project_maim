@@ -1,0 +1,25 @@
+html, body, #root {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+nav { background:#d8ce0f9c; color:white; padding:10px 20px }
+nav a { color:white; margin-right:12px; text-decoration:none }
+.card { background:rgb(160, 159, 159); padding:16px; border-radius:8px; box-shadow:0 4px 18px rgba(0,0,0,0.06); margin-bottom:12px }
+.button { background:#0b69ff; color:white; padding:8px 12px; border-radius:6px; border:none; cursor:pointer }
+.form-row { margin-bottom:8px }
+input, textarea { width:100%; padding:8px; border-radius:6px; border:1px solid #ddd }
+small.err { color:#c00 }
+.qr { max-width:200px; display:block; margin-top:8px; }
+
+
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#3f3f3e; color:#111 }
+.container { max-width:1000px; margin:20px auto; padding:20px }
+nav { background:#2d83e7d2; color:white; padding:10px 20px }
+nav a { color:white; margin-right:12px; text-decoration:none }
+.card { background:rgb(160, 159, 159); padding:16px; border-radius:8px; box-shadow:0 4px 18px rgba(0,0,0,0.06); margin-bottom:12px }
+.button { background:#0b69ff; color:white; padding:8px 12px; border-radius:6px; border:none; cursor:pointer }
+.form-row { margin-bottom:8px }
+input, textarea { width:100%; padding:8px; border-radius:6px; border:1px solid #ddd }
+small.err { color:#c00 }
+.qr { max-width:200px; display:block; margin-top:8px; }

@@ -1,5 +1,6 @@
 to login as admin : email : admin@example.com    password : adminpass
 to login as user :  email :   kh@gmail.com       password: kkk
+database : mongodb+srv://instructor:1223334444@cluster0.whpbvkz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
                    
 
 Overview
